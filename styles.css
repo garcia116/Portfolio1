@@ -182,7 +182,7 @@ html body{
 #hero {
     width: 100%;
     height: 100vh;
-    background: url(./images/IMG_0224\ 2.jpg) right top no-repeat;
+    background: url(./images/hero-pic.png) right top no-repeat;
     background-size: cover;
     position: relative;
     z-index: 0;
